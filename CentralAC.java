@@ -31,7 +31,7 @@ public class CentralAC extends ServiceCall{
 
 
         return "Central AC Unit Service Call " + "\n" +
-                "Service Address= " + serviceAddress + "\n" +
+                "Service Address = " + serviceAddress + "\n" +
                 "Problem Description = " + problemDescription  + "\n" +
                 "Reported Date = " + reportedDate + "\n" +
                 "Resolved Date = " + resolvedDateString + "\n" +
